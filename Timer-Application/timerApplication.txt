@@ -1,3 +1,4 @@
+Timer Application, Personal Project     				        			  November 2019   
 •  Created a text box taking time from a user and type checking				
 •  Implemented countdown that converted milliseconds into seconds					
 •  Added an mp3 alarm sound								
